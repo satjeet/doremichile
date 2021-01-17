@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Game from "./game/game";
+import Game from "./Game";
 export default {
   name: "App",
   components: { Game },
